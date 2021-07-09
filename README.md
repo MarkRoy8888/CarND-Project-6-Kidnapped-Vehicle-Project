@@ -8,11 +8,17 @@ In this project you will implement a 2 dimensional particle filter in C++. Your 
 ![image](https://github.com/MarkRoy8888/CarND-Project-6-Kidnapped-Vehicle-Project/blob/master/readme/kidnap.gif)
 
 
-# The Result
+## The Result
 
 ![](readme/image1.jpg)
 
 the whole video can find in file ***/readme***
+
+## The Principle
+
+1.Bayes' Rule
+2.Markov Localization
+
 
 
 ## Running the Code
@@ -95,7 +101,7 @@ Success! Your particle filter passed!
 ```
 
 
-# Implementing the Particle Filter
+## Implementing the Particle Filter
 The directory structure of this repository is as follows:
 
 ```
