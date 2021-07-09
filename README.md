@@ -17,7 +17,8 @@ the whole video can find in file ***/readme***
 ## The Principle
 
 1.Bayes' Rule<br/>
-2.Markov Localization
+2.Markov Localization<br/>
+3.Particle Filters<br/>
 
 
 
