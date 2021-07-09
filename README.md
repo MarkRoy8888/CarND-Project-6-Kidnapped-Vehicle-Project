@@ -16,7 +16,7 @@ the whole video can find in file ***/readme***
 
 ## The Principle
 
-1.Bayes' Rule
+1.Bayes' Rule<br/>
 2.Markov Localization
 
 
