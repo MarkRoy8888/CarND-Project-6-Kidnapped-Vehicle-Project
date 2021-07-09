@@ -1,4 +1,4 @@
-![image]
+![image](https://github.com/MarkRoy8888/CarND-Project-6-Kidnapped-Vehicle-Project/blob/master/readme/kidnap.gif)
 
 
 # Overview
